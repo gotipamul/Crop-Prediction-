@@ -1,2 +1,2 @@
-# Crop-Prediction-
+# Crop-Prediction
 Crop Prediction 
